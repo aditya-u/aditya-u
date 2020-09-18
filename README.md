@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-u" alt="aditya-u" /> </p>
 
-- 🔭 I’m currently working on **A bunch of really cool stuff**
+- 🔭 I’m currently working on **a bunch of really cool stuff**
 
 - 👨‍💻 Do check out [EnigmAI (you'll find some really cool stuff I worked on)](https://github.com/EnigmAI)
 
-- 💬 Ask me about **Whatever you wanna (Questions about games are preferred though)**
+- 💬 Ask me about **whatever you wanna (Questions about games are preferred though)**
 
 - 📫 How to reach me **adityaupadhyay1912@gmail.com**
 
