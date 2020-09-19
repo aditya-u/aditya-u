@@ -17,7 +17,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-u&layout=compact&theme=tokyonight" alt="aditya-u" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=aditya-u&show_icons=true&theme=tokyonight" alt="aditya-u" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-u&show_icons=true&theme=tokyonight" alt="aditya-u" /></p>
 
 <p align="center">
 <a href="https://twitter.com/adityau_2000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="adityau_2000" height="30" width="30" /></a>
