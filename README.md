@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Upadhyay (you may know me as Firethrone)</h1>
-<h3 align="center">True neutral Human wizard</h3>
+<h3 align="center">True neutral human wizard</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-u" alt="aditya-u" /> </p>
 
