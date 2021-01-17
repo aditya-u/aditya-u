@@ -7,7 +7,7 @@
 
 - 👨‍💻 Do check out **[EnigmAI](https://github.com/EnigmAI) (you'll find some really cool stuff I worked on)**
 
-- 💬 Ask me about **whatever you wanna (Questions about games are preferred though)**
+- 💬 Ask me about **whatever you wanna**
 
 - 📫 How to reach me **adityaupadhyay1912@gmail.com**
 
